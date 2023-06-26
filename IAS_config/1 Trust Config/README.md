@@ -6,7 +6,8 @@
 
 ## Details
 
-With this step you will set up trust configuration between BTP Subaccount and IAS tenant
+With this step you will set up trust configuration between BTP Subaccount and IAS tenant via exchanging SAML Metadata files between your BTP Subaccount and IAS tenant and vice versa
+
 
 ### Step 1: Create a new app in IAS
 
@@ -16,59 +17,62 @@ With this step you will set up trust configuration between BTP Subaccount and IA
 
 - Go to the Applications tile
 
-<!-- image -->
+![Applications tile](./Images/1.2.1.png "Applications tile")
 
 - Click **Create** button
 - In Create Application popup Fill in the Display Name field and click **Save** button
 
-<!-- image -->
+![Create a new App](./Images/1.2.2.png "Create a new App")
 
 As a result the newly created app is displayed in Charged Applications list
 
-<!-- image -->
+
 
 ### Step 2: Download SAML Metadata from tenant settings
 
 1. Go to Tenant Settings tab
 
-<!-- image -->
+![Tenant Settings tab](./Images/2.1.1.png "Tenant Settings tab")
 
 2. Go to SAML 2.0 Configuration under Single Sign-On tab
 
 3. Download SAML Metadata to your local computer via clicking **Download Metadata File** button
 
-<!-- image -->
+![Download SAML Metadata](./Images/2.3.1.png "Download SAML Metadata")
 
 As a result the SAML Metadata of your tenant is downloaded to your local computer
+
 
 ### Step 3: Create a new Trust Configuration in BTP
 
 1. Access your BTP Subaccount
 
-<!-- image -->
+![BTP Subaccount](./Images/3.1.1.png "BTP Subaccount")
 
 2. Create a new Trust Configuration using the SAML Metadata from the previous step
 
 - Go to Trust Configuration tab
 - Click **New Trust Configuration** button
 
-<!-- image -->
+![New Trust Configuration](./Images/3.2.1.png "New Trust Configuration")
 
 - Upload the SAML Metadata file from your local computer via clicking **Upload** button in New Trust Configuration popup
 - Fill in the Name field with an appropriate name and click **Save** button
 
-<!-- image -->
+![New Trust Configuration](./Images/3.2.2.png "New Trust Configuration")
 
 As a result new Trust Configuration is established and displayed in Trust Configuration list in your BTP Subaccount
+
 
 ### Step 4: Download SAML Metadata from BTP Subaccount
 
 1. Go to Trust Configuration tab
 2. Download SAML Metadata to your local computer via clicking **SAML Metadata** button
 
-<!-- image -->
+![Download SAML Metadata](./Images/4.2.1.png "Download SAML Metadata")
 
 As a result the SAML Metadata of your BTP Subaccount is downloaded to your local computer
+
 
 ### Step 5: Establish Trust Configuration in IAS tenant
 
@@ -77,15 +81,15 @@ As a result the SAML Metadata of your BTP Subaccount is downloaded to your local
 
 - Go to Applications tab and choose the newly created app
 
-<!-- image -->
+![The new app](./Images/5.2.1.png "The new app")
 
-- Go to SAML 2.0 Configuration under Trust tab
+- Go to SAML 2.0 Configuration under Trust tab which is not configured yet
 
-<!-- image -->
+![SAML 2.0 Configuration](./Images/5.2.2.png "SAML 2.0 Configuration")
 
 - Upload the BTP Subaccount SAML Metadata file from your local computer to the IAS tenant via clicking **Browse...** button
 - Click **Save** button
 
-<!-- image -->
+![SAML 2.0 Configuration](./Images/5.2.3.png "SAML 2.0 Configuration")
 
 As a result the trust configuration between your BTP subaccount and IAS tenant is established. In IAS admin console you can see your app in Bundled Applications list
