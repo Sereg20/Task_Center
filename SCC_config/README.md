@@ -8,6 +8,6 @@
 
 With this steps you will set up SAP Cloud Connector to establish a secret tunnel between BTP and SAP S4HANA On-Premise system.
 
-This scnearion is applicable for S4HANA On-Premise only
+This scneario is applicable for S4HANA On-Premise only
 
 Start with [1 Add Subaccount](https://)

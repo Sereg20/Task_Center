@@ -20,11 +20,11 @@ With this step you will connect SAP Cloud Connector with your BTP Subaccount
 
 ![provide Subaccount](./Images/1.2.3.png "provide Subaccount")
 
-- Provide meaningfull **Display Name** 
+- Provide meaningful **Display Name** 
 
 - Fill in **Subaccount User** field with your BTP Subaccount user's email
 - Fill in **Password** field with your BTP Subaccount user's password
-- Fill In **Location ID** field with a meaningfull value in case you have more than 1 SAP Cloud Connectors connected to the same BTP Subaccount 
+- Fill In **Location ID** field with a meaningful value in case you have more than 1 SAP Cloud Connectors connected to the same BTP Subaccount 
 - Click **Save** button
 
 ![save Subaccount](./Images/1.2.4.png "save Subaccount")

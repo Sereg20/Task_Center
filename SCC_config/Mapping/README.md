@@ -5,7 +5,7 @@ With this step you will add a mapping to your SAP S4HANA On-Premise system which
 
 ### Step 1: Add a Virtual Mapping to your Backend System
 
-1. Access you SAP Cloud Connector. make sure the newly added subaccount is active in SAP Cloud Connector
+1. Access you SAP Cloud Connector. Make sure the newly added subaccount is active in SAP Cloud Connector
 2. Under the Subaccount go to **Cloud To On-Premise** tab
 
 ![Cloud To On-Premise tab](./Images/1.2.1.png "Cloud To On-Premise tab")
