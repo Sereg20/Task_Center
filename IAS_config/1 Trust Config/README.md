@@ -93,3 +93,6 @@ As a result the SAML Metadata of your BTP Subaccount is downloaded to your local
 ![SAML 2.0 Configuration](./Images/5.2.3.png "SAML 2.0 Configuration")
 
 As a result the trust configuration between your BTP subaccount and IAS tenant is established. In IAS admin console you can see your app in Bundled Applications list
+
+
+Proceed to the next step: [2 Configure Subject Name Identifier]

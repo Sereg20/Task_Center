@@ -17,3 +17,6 @@ With this step you will configure Subject Name Identifier in order to enable Pri
 - Click **Save** button
 
 As a result Subject Name Identifier has value of User UUID. This configuration allows Principal Propagation mechanism to identify user by uniquie UUID field
+
+
+Proceed to the next step: [3 Create User Group]
