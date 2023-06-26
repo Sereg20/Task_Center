@@ -20,7 +20,7 @@ With this step you will set up trust configuration between BTP Subaccount and IA
 ![Applications tile](./Images/1.2.1.png "Applications tile")
 
 - Click **Create** button
-- In Create Application popup Fill in the Display Name field and click **Save** button
+- In Create Application popup fill in the Display Name field and click **Save** button
 
 ![Create a new App](./Images/1.2.2.png "Create a new App")
 
