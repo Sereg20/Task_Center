@@ -40,4 +40,4 @@ As a result the connection between your BTP Subaccount and SAP Cloud Connector i
 ![successful connection](./Images/2.1.1.png "successful connection")
 
 
-Proceed to the next step: [2 Mapping with your On-Premise system](https://)
+Proceed to the next step: [2 Mapping with your On-Premise system](https://github.com/Sereg20/Task_Center/blob/master/SCC_config/2%20Mapping/README.md)

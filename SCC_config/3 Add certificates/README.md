@@ -9,7 +9,7 @@ You will need all these certificates during SAP S4HANA configuration
 1. Access you SAP Cloud Connector
 2. Go to **Configuration** tab
 3. Go to **On Premise** tab
-4. Start creating System certificate by clicking **Create and import a self-signed certificate** button
+4. Create System certificate by clicking **Create and import a self-signed certificate** button
 
 ![Create and import a self-signed certificate](./Images/1.4.1.png "Create and import a self-signed certificate")
 
@@ -27,7 +27,7 @@ As a result System Certificate is created and downloaded to your local computer
 
 ### Step 2: Create CA certificate
 
-1. Start creating CA certificate by clicking **Create and import a self-signed certificate** button
+1. Create CA certificate by clicking **Create and import a self-signed certificate** button
 
 ![Create and import a self-signed certificate](./Images/2.1.1.png "Create and import a self-signed certificate")
 
