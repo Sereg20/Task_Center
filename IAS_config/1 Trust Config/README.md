@@ -1,9 +1,3 @@
-## Prerequisites
-
-- You have BTP Enterprise Account
-- You have Identity Authentication Service (IAS) Tenant
-- You have admin rights in the IAS Tenant
-
 ## Details
 
 With this step you will set up trust configuration between BTP Subaccount and IAS tenant via exchanging SAML Metadata files between your BTP Subaccount and IAS tenant and vice versa
