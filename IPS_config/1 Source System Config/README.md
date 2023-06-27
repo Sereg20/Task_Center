@@ -1,6 +1,7 @@
 ## Details
 
 With this step you will configure Source system for IPS Provisioning job
+
 The Source system will be Identity Authentication system
 
 
@@ -46,4 +47,4 @@ As a result, a Source system is created and displayed in Source Systems list on 
 
 As a result, all required properties are specified for the Source system
 
-Proceed to the next step: [2 Task Center Config](https://github.com/Sereg20/Task_Center/blob/master/S4HANA_config/2%20Task%20Center%20Config/README.md)
+Proceed to the next step: [2 Task Center Config](https://github.com/Sereg20/Task_Center/blob/master/IPS_config/2%20Target%20System%20Config/README.md)
