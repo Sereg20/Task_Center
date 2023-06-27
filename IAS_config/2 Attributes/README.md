@@ -5,8 +5,7 @@ With this step you will configure Subject Name Identifier in order to configure 
 
 ### Step 1: Set Subject Name Identifier value to Global User ID
 
-1. Access you IAS admin console
-2. Set Subject Name Identifier value as Global User ID
+1. Set Subject Name Identifier value as Global User ID
 
 - Go to Applications tab and choose the App
 - Go to Subject Name Identifier under Trust tab

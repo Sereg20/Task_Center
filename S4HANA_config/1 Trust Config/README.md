@@ -2,6 +2,7 @@
 
 With this step you will set up trust configuration via uploading all required certificates in order to enable Principal Propagation mechanism
 
+
 ### Step 1: Import System Cetrificate
 
 1. Access your ABAP System
@@ -79,7 +80,17 @@ As a result, Sample Certificate from your SAP Cloud Connector is successfully im
 
 6. Click **Exit** button. Save your changes
 7. Click **Save** button
-8. Restart your backend system in order to apply all Parameters you've just created **(TBC)!!!**
+
+
+### Step 4: Restart the system
+
+1. Execute **SMICM** transaction
+2. On the very top choose Administration -> ICM -> Exit Soft -> Global
+
+![Restart](./Images/4.2.1.png "Restart")
+
+3. Click **YES** in the Internet Communication Manager popup
+4. On the server your SAP S4HANA On-Premise is run restart the backend system in order to apply all Parameters you've just created
 
 As a result, all required parameters for the DEFAULT profile are created and applied
 

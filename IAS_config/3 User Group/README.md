@@ -5,14 +5,13 @@ With this step you will create a User Group and store all Task Center business u
 
 ### Step 1: Create a User Group
 
-1. Access you IAS admin console
-2. Create a User Group
+1. Create a User Group
 
 - Go to User Groups tab
 - Click **Create** button
 - Fill in Name and Dispaly name fields with value **TASK_CENTER**
 
-![create a user group](./Images/1.2.1.png "create a user group")
+![create a user group](./Images/1.1.1.png "create a user group")
 
 - Click **Create** button
 
