@@ -40,6 +40,6 @@ As a result, a new System Administrator is created
 
 ![Create Secrets](./Images/2.2.2.png "Create Secrets")
 
-- Copy Client ID and Client Secret values. You'll need these values later
+- Copy Client ID and Client Secret values from the popup. You'll need these values later
 
 As a result, System Administrator secrets are created and stored for future use

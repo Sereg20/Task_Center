@@ -9,4 +9,4 @@
 With these steps you will provision SAP Task Center Business Users data from IAS to SAP S4HANA On-Premise system using IPS job
 The Provisioning process will update SAP Task Center Business Users in SAP S4HANA On-Premise system with Global User ID field which is automatically generated in IAS and required for Principal Propagation mechanism
 
-Start with [1 Source System Config](https://github.com/Sereg20/Task_Center/blob/master/IAS_config/1%20Trust%20Config/README.md)
+Start with [1 Source System Config](https://github.com/Sereg20/Task_Center/blob/master/IPS_config/1%20Source%20System%20Config/README.md)

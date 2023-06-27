@@ -31,3 +31,5 @@ As a result, a new User Group TASK_CENTER is created
 - Click **Save** button
 
 As a result, User Group TASK_CENTER is populated with Task Center business users 
+
+Proceed to the next step: [4 Create System Administrator](https://github.com/Sereg20/Task_Center/blob/master/IAS_config/4%20Create%20System%20Admin/README.md)
