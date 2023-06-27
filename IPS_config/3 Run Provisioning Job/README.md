@@ -22,7 +22,7 @@ With this step you will run Provisioning job to provision Users data from IAS to
 As a result, the Provisioning job has been successfully triggered
 
 
-### Step 2: Check the job's result
+### Step 2: Check the result of job run
 
 1. Go to Job Logs
 

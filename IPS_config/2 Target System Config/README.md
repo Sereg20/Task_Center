@@ -44,4 +44,4 @@ As a result, a Target system is created and displayed in Target Systems list on 
 
 As a result, Target system Transformation is adjusted properly
 
-Proceed to the next step: [3 Run Provisioning Job](https://)
+Proceed to the next step: [3 Run Provisioning Job](https://github.com/Sereg20/Task_Center/blob/master/IPS_config/3%20Run%20Provisioning%20Job/README.md)
