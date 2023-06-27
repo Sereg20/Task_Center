@@ -22,7 +22,7 @@ With this step you will add a mapping to your SAP S4HANA On-Premise system which
 - Choose **Use Internal Host** as Host in request Header
 - Click **Finish** button 
 
-As a result mapping to your SAp S4HANA On-Premise system was added
+As a result, mapping to your SAp S4HANA On-Premise system was added
 
 ![mapping](./Images/1.3.2.png "mapping")
 
@@ -40,7 +40,7 @@ As a result mapping to your SAp S4HANA On-Premise system was added
 
 ![add resource](./Images/2.2.1.png "add resource")
 
-As a result added resources are allowed to be accessed
+As a result, added resources are allowed to be accessed
 
 
 ### Step 3: Synchronise Trust Configuration
@@ -52,7 +52,7 @@ As a result added resources are allowed to be accessed
 
 ![Principal Propagation](./Images/3.4.1.png "Principal Propagation")
 
-As a result Principal Propagation is enabled since Trust Configuration between SAP Cloud Connector and your BTP Subaccount is Synchronised
+As a result, Principal Propagation is enabled since Trust Configuration between SAP Cloud Connector and your BTP Subaccount is Synchronised
 
 
 Proceed to the next step: [3 Add required certificates](https://github.com/Sereg20/Task_Center/blob/master/SCC_config/3%20Add%20certificates/README.md)

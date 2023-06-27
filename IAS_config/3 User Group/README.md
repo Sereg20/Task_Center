@@ -16,7 +16,7 @@ With this step you will create a User Group and store all Task Center business u
 
 - Click **Create** button
 
-As a result a new User Group TASK_CENTER is created
+As a result, a new User Group TASK_CENTER is created
 
 
 ### Step 2: Add Task Center business users to the User Group TASK_CENTER
@@ -31,4 +31,4 @@ As a result a new User Group TASK_CENTER is created
 - Select required users from Add Users list
 - Click **Save** button
 
-As a result User Group TASK_CENTER is populated with Task Center business users 
+As a result, User Group TASK_CENTER is populated with Task Center business users 

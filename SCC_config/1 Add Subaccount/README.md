@@ -29,7 +29,7 @@ With this step you will connect SAP Cloud Connector with your BTP Subaccount
 
 ![save Subaccount](./Images/1.2.4.png "save Subaccount")
 
-As a result the connection between your BTP Subaccount and SAP Cloud Connector is established.
+As a result, the connection between your BTP Subaccount and SAP Cloud Connector is established.
 
 
 ### Step 2: Verify the connection is successful

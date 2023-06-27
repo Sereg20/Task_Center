@@ -22,7 +22,7 @@ You will need all these certificates during SAP S4HANA configuration
 5. Download the certificate to your local computer by clicking **Download certificate in DER format** button
 
 
-As a result System Certificate is created and downloaded to your local computer
+As a result, System Certificate is created and downloaded to your local computer
 
 
 ### Step 2: Create CA certificate
@@ -40,7 +40,7 @@ As a result System Certificate is created and downloaded to your local computer
 2. Download the certificate to your local computer by clicking **Download certificate in DER format** button
 
 
-As a result CA Certificate is created and downloaded to your local computer
+As a result, CA Certificate is created and downloaded to your local computer
 
 
 ### Step 3: Create Sample certificate
@@ -57,7 +57,7 @@ As a result CA Certificate is created and downloaded to your local computer
 
 5. Download the certificate to your local computer
 
-As a result sample Certificate is created and downloaded to your local computer
+As a result, sample Certificate is created and downloaded to your local computer
 
 
 Proceed to the next step: [something else](https://)
