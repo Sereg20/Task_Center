@@ -67,11 +67,13 @@ As a result, Sample Certificate from your SAP Cloud Connector is successfully im
 
 - icm/HTTPS/verify_client - 1
 - login/certificate_mapping_rulebased - 1
-- icm/trusted_reverse_proxy_0 - SUBJECT="\<Subject from your system certificate\>",     ISSUER="\<Issuer from your system certificate\>"
+- icm/trusted_reverse_proxy_0 - 
+  - SUBJECT="\<Subject from your system certificate\>",
+  - ISSUER="\<Issuer from your system certificate\>"
 
 *Example:* icm/trusted_reverse_proxy_0 - SUBJECT="CN=us4.leverx.local, OU=Connectivity, O=SAP, C=DE", ISSUER="CN=us4.leverx.local, OU=Connectivity, O=SAP, C=DE"
 
-*Note:* In case you have more than one SAP Cloud Connector connected to the same backend system increase the last number of the parameter by 1 for each SAP Cloud Connector (Example: icm/trusted_reverse_proxy_1, etc.)
+*Note:* In case you have more than one SAP Cloud Connector connected to the same backend system increase the last number of the parameter by 1 for each SAP Cloud Connector (*Example:* icm/trusted_reverse_proxy_1, etc.)
 
 ![Parameters](./Images/3.5.1.png "Parameters")
 
