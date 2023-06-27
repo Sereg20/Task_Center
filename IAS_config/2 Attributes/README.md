@@ -1,6 +1,6 @@
 ## Details
 
-With this step you will configure Subject Name Identifier in order to enable Principal Propagation mechanism 
+With this step you will configure Subject Name Identifier in order to configure Principal Propagation mechanism for Task Center usage
 
 
 ### Step 1: Set Subject Name Identifier value to Global User ID
