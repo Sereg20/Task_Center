@@ -1,6 +1,7 @@
 ## Prerequisites
 
 - You have Identity Provisioning Service (IPS) within your Identity Authentication Service (IAS) Tenant
+- You have created RFC Destination in SAP BTP which is required for Provisioning to an On-Premise system 
 - You have configured Identity Authentication Service Tenant (See: [IAS Configuration](https://github.com/Sereg20/Task_Center/blob/master/IAS_config/README.md))
 - You have configured SAP S4HANA On-Premise system (See: [SAP S4HANA On-Premise Configuration](https://github.com/Sereg20/Task_Center/blob/master/S4HANA_config/README.md))
 

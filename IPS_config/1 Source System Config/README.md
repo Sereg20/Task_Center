@@ -1,6 +1,7 @@
 ## Details
 
 With this step you will configure Source system for IPS Provisioning job
+The Source system will be Identity Authentication system
 
 
 ### Step 1: Create Source system
@@ -36,8 +37,8 @@ As a result, a Source system is created and displayed in Source Systems list on 
 - Authentication - BasicAuthentication
 - User - Client ID of the System Administrator that was created during IAS configuration
 - Password - Password of the System Administrator that was created during IAS configuration
-- ias.group.filter - displayName eq "**Task_Center**" (the value is equal to the User Group that was created during IAS Configuration)
-- ias.user.filter - groups.display eq "**Task_Center**" (the value is equal to the User Group that was created during IAS Configuration)
+- ias.group.filter - displayName eq "**Task_Center**" (the value is equal to the User Group name that was created during IAS Configuration)
+- ias.user.filter - groups.display eq "**Task_Center**" (the value is equal to the User Group name that was created during IAS Configuration)
 
 ![System params](./Images/2.2.1.png "System params")
 
