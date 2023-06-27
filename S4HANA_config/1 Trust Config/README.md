@@ -79,4 +79,4 @@ As a result, Sample Certificate from your SAP Cloud Connector is successfully im
 
 As a result, all required parameters for the DEFAULT profile are created and applied
 
-Proceed to the next step: [2 Task Center Config](https:)
+Proceed to the next step: [2 Task Center Config](https://github.com/Sereg20/Task_Center/blob/master/S4HANA_config/2%20Task%20Center%20Config/README.md)
