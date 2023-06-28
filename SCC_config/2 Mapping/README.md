@@ -10,19 +10,19 @@ With this step you will add a mapping to your SAP S4HANA On-Premise system which
 
 ![Cloud To On-Premise tab](./Images/1.2.1.png "Cloud To On-Premise tab")
 
-3. Add a new mapping by clicking **Add** button Under **Access Control** tab
+3. On **Access Control** tab, add a new mapping by clicking **Add** button
 
 ![Add mapping button](./Images/1.3.1.png "Add mapping button")
 
 - Choose **ABAP System** as Back-end Type
 - Choose **HTTPS** as Protocol
 - Specify your backend system's Internal Host and Internal Port
-- Keep Virtual Host** and Virtual Port the same
+- Keep Virtual Host and Virtual Port the same
 - Choose **X.509 Certificate (Strict Usage)** as Principal type
 - Choose **Use Internal Host** as Host in request Header
 - Click **Finish** button 
 
-As a result, mapping to your SAp S4HANA On-Premise system was added
+As a result, mapping to your SAP S4HANA On-Premise system has been added
 
 ![mapping](./Images/1.3.2.png "mapping")
 
@@ -55,4 +55,4 @@ As a result, added resources are allowed to be accessed
 As a result, Principal Propagation is enabled since Trust Configuration between SAP Cloud Connector and your BTP Subaccount is Synchronised
 
 
-Proceed to the next step: [3 Add required certificates](https://github.com/Sereg20/Task_Center/blob/master/SCC_config/3%20Add%20certificates/README.md)
+Proceed to the next step: [3 Add RFC Mapping](https://)
