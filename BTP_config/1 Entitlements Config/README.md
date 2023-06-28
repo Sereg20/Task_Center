@@ -11,7 +11,7 @@ With this step you will get access to all required services including
 
 1. Access your SAP BTP Global account
 2. Go to Entity Assignments tab
-3. Assign (if not assigned) required Entitlements
+3. Assign (if not assigned only) required Entitlements
 
 - Choose your Subaccount from Select Entities value help
 - Click **Configure Entitlements** button
@@ -31,7 +31,7 @@ With this step you will get access to all required services including
 
 ![Save changes](./Images/1.3.3.png "Save changes")
 
-As a result, you are entitled to use required services, so as of now it's possible to create Subscriptions and service Instances based on it
+As a result, You are entitled to use required services, so it's possible to create Subscriptions and service Instances based on it
 
 
 ### Step 2: Create required Subscriptions
@@ -54,7 +54,7 @@ As a result, you are entitled to use required services, so as of now it's possib
 - Choose **connectivity** from Plan dropdown
 - Click **Create** button
 
-As a result, as of now you can use both SAP Build Work Zone, standard edition and Cloud Identity Services Applications
+As a result, You can use both SAP Build Work Zone, standard edition and Cloud Identity Services Applications
 
 
 ### Step 3: Create required Instances
@@ -73,5 +73,22 @@ As a result, as of now you can use both SAP Build Work Zone, standard edition an
 
 As a result, Cloud Identity Services service instance has been created
 
+### Step 4: Assign required Role Collections to your BTP User
+
+1. Go to Users tab
+2. Search for your User and select it (Default identity provider only)
+3. On Role Collections tab, click **Assign Role Collections** button
+
+![Assign Role Collections](./Images/4.3.1.png "Assign Role Collections")
+
+4. Assign the following Role Collections
+
+- Launchpad_Admin
+- TaskCenterAdmin
+- Cloud Connector Administrator
+- Connectivity and Destination Administrator
+- Destination Administrator
+
+As a result, You are able to work with and configure all required Apps services
 
 Proceed to the next step: [2 Set up and Configure SAP Task Center service](https://github.com/Sereg20/Task_Center/blob/master/BTP_config/2%20Set%20Up%20STC/README.md)
