@@ -27,7 +27,7 @@ With this step you will set up trust configuration via uploading all required ce
 
 - Click **Save** button
 
-As a result, System Certificate from your SAP Cloud Connector is successfully imported 
+As a result, System Certificate from your SAP Cloud Connector has been successfully imported 
 
 
 ### Step 2: Import Sample Certificate
@@ -49,7 +49,7 @@ As a result, System Certificate from your SAP Cloud Connector is successfully im
 
 ![Create Rule](./Images/2.3.1.png "Create Rule")
 
-As a result, Sample Certificate from your SAP Cloud Connector is successfully imported as well as required rule to identify a user by using Global User ID field is created
+As a result, Sample Certificate from your SAP Cloud Connector has been successfully imported as well as required rule to identify a user by using Global User ID field has been created
 
 
 ### Step 3: Configure Profile Parameters
@@ -92,6 +92,7 @@ As a result, Sample Certificate from your SAP Cloud Connector is successfully im
 3. Click **YES** in the Internet Communication Manager popup
 4. On the server your SAP S4HANA On-Premise is run restart the backend system in order to apply all Parameters you've just created
 
-As a result, all required parameters for the DEFAULT profile are created and applied
+As a result, all required parameters for the DEFAULT profile have been created and applied
+
 
 Proceed to the next step: [2 Task Center Config](https://github.com/Sereg20/Task_Center/blob/master/S4HANA_config/2%20Task%20Center%20Config/README.md)

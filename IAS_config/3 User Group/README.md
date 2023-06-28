@@ -15,7 +15,7 @@ With this step you will create a User Group and store all Task Center business u
 
 - Click **Create** button
 
-As a result, a new User Group TASK_CENTER is created
+As a result, a new User Group TASK_CENTER has been created
 
 
 ### Step 2: Add Task Center business users to the User Group TASK_CENTER
@@ -31,5 +31,6 @@ As a result, a new User Group TASK_CENTER is created
 - Click **Save** button
 
 As a result, User Group TASK_CENTER is populated with Task Center business users 
+
 
 Proceed to the next step: [4 Create System Administrator](https://github.com/Sereg20/Task_Center/blob/master/IAS_config/4%20Create%20System%20Admin/README.md)

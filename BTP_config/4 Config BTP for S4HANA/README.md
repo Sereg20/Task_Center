@@ -25,7 +25,7 @@ With this step you will create all required Destinations on BTP to make SAP S4HA
 
 ![Destination](./Images/1.3.1.png "Destination")
 
-As a result, the Destination is created and displayed in Destinations table
+As a result, the Destination has been created and displayed in Destinations table
 
 
 ### Step 2: Create RFC Destination for Users data Provisioning
@@ -49,4 +49,5 @@ As a result, the Destination is created and displayed in Destinations table
 
 ![RFC Destination](./Images/2.3.1.png "RFC Destination")
 
-As a result, the RFC Destination is created and displayed in Destinations table
+
+As a result, the RFC Destination has been created and displayed in Destinations table

@@ -23,7 +23,7 @@ With this step you will create a System Administrator which is required for User
 
 - Click **Save** button
 
-As a result, a new System Administrator is created
+As a result, a new System Administrator has been created
 
 
 ### Step 2: Add Secrets to the Administrator
@@ -42,4 +42,5 @@ As a result, a new System Administrator is created
 
 - Copy Client ID and Client Secret values from the popup. You'll need these values later
 
-As a result, System Administrator secrets are created and stored for future use
+
+As a result, System Administrator secrets have been created and stored for future use

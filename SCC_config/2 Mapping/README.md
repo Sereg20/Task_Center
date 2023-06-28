@@ -52,7 +52,7 @@ As a result, added resources are allowed to be accessed
 
 ![Principal Propagation](./Images/3.4.1.png "Principal Propagation")
 
-As a result, Principal Propagation is enabled since Trust Configuration between SAP Cloud Connector and your BTP Subaccount is Synchronised
+As a result, Principal Propagation has been enabled since Trust Configuration between SAP Cloud Connector and your BTP Subaccount is Synchronised
 
 
 Proceed to the next step: [3 Add RFC Mapping](https://github.com/Sereg20/Task_Center/blob/master/SCC_config/3%20RFC%20Mapping/README.md)

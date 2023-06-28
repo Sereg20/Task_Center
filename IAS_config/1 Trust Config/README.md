@@ -34,7 +34,7 @@ As a result, the newly created app is displayed in Charged Applications list
 
 ![Download SAML Metadata](./Images/2.3.1.png "Download SAML Metadata")
 
-As a result, the SAML Metadata of your tenant is downloaded to your local computer
+As a result, the SAML Metadata of your tenant has been downloaded to your local computer
 
 
 ### Step 3: Create a new Trust Configuration in BTP
@@ -55,7 +55,7 @@ As a result, the SAML Metadata of your tenant is downloaded to your local comput
 
 ![New Trust Configuration](./Images/3.2.2.png "New Trust Configuration")
 
-As a result, new Trust Configuration is established and displayed in Trust Configuration list in your BTP Subaccount
+As a result, new Trust Configuration has been established and displayed in Trust Configuration list in your BTP Subaccount
 
 
 ### Step 4: Download SAML Metadata from BTP Subaccount
@@ -65,7 +65,7 @@ As a result, new Trust Configuration is established and displayed in Trust Confi
 
 ![Download SAML Metadata](./Images/4.2.1.png "Download SAML Metadata")
 
-As a result, the SAML Metadata of your BTP Subaccount is downloaded to your local computer
+As a result, the SAML Metadata of your BTP Subaccount has been downloaded to your local computer
 
 
 ### Step 5: Establish Trust Configuration in IAS tenant
@@ -86,7 +86,7 @@ As a result, the SAML Metadata of your BTP Subaccount is downloaded to your loca
 
 ![SAML 2.0 Configuration](./Images/5.2.3.png "SAML 2.0 Configuration")
 
-As a result, the trust configuration between your BTP subaccount and IAS tenant is established. In IAS admin console you can see your app in Bundled Applications list
+As a result, the trust configuration between your BTP subaccount and IAS tenant has been established. In IAS admin console you can see your app in Bundled Applications list
 
 
 Proceed to the next step: [2 Configure Subject Name Identifier](https://github.com/Sereg20/Task_Center/tree/master/IAS_config/2%20Attributes)

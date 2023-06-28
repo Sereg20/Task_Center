@@ -24,7 +24,7 @@ The Source system will be Identity Authentication system
 
 ![System params](./Images/1.3.2.png "System params")
 
-As a result, a Source system is created and displayed in Source Systems list on the left hand side 
+As a result, a Source system has been created and displayed in Source Systems list on the left hand side 
 
 
 ### Step 2: Specify Properties for the Source system
@@ -45,6 +45,7 @@ As a result, a Source system is created and displayed in Source Systems list on 
 
 3. Save changes
 
-As a result, all required properties are specified for the Source system
+As a result, all required properties have been specified for the Source system
+
 
 Proceed to the next step: [2 Task Center Config](https://github.com/Sereg20/Task_Center/blob/master/IPS_config/2%20Target%20System%20Config/README.md)

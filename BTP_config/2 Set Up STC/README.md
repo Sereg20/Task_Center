@@ -28,7 +28,7 @@ With this step you will set up and configure SAP Task Center service
 
 ![new instance data](./Images/1.2.3.png "new instance data")
 
-As a result, SAP Task Center service instance is created and displayed in Instances table
+As a result, SAP Task Center service instance has been created and displayed in Instances table
 
 
 ### Step 2: Create a service key for the service instance
@@ -60,7 +60,7 @@ As a result, SAP Task Center service instance is created and displayed in Instan
 
 ![Service key data](./Images/2.2.2.png "Service key data")
 
-As a result, a service key for the newly created SAP Task Center service instance is created
+As a result, a service key for the newly created SAP Task Center service instance has been created
 
 
 ### Step 3: Set up the service destinations
@@ -101,7 +101,7 @@ As a result, a service key for the newly created SAP Task Center service instanc
 ![SAP Task Center Global Settings Destination](./Images/3.4.1.png "SAP Task Center Global Settings Destination")
 
 
-As a result, all required Destinations are created and displayed in Destinations table
+As a result, all required Destinations have been created and displayed in Destinations table
 
 
 ### Step 4: Create Task Center and Task Center Administration Tiles on SAP Build Work Zone, Standard Edition
@@ -168,7 +168,7 @@ As a result, all required Destinations are created and displayed in Destinations
 
 ![New Site](./Images/4.8.2.png "New Site")
 
-As a result, SAP Task Center is configured. Both **Task Center** and **Task Center Administration** tiles are reachable from the newly created site
+As a result, SAP Task Center has been configured. Both **Task Center** and **Task Center Administration** tiles are reachable from the newly created site
 
 ![Site](./Images/4.9.1.png "Site")
 

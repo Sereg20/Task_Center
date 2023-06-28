@@ -19,7 +19,7 @@ With this step you will execute all SAP Task Center related activities in the AB
 9. Fill in Service Group ID field with **API_TASK_SPI_REPLICATION** and press Enter then Select Service Group from the table below
 10. Click **Publish Service Groups** button
 
-As a result, both API_TASK_SPI_DETAILS and API_TASK_SPI_REPLICATION service groups are published and displayed in Service Group list
+As a result, both API_TASK_SPI_DETAILS and API_TASK_SPI_REPLICATION service groups have been published and displayed in Service Group list
 
 ![Published service groups](./Images/1.8.1.png "Published service groups")
 
@@ -53,7 +53,7 @@ As a result, both API_TASK_SPI_DETAILS and API_TASK_SPI_REPLICATION service grou
 
 11. Save and generate the role
 
-As a result role Z_SAP_TASK_CENTER for Technical User for Task Pull Service is successfully created
+As a result role Z_SAP_TASK_CENTER for Technical User for Task Pull Service has been successfully created
 
 
 ### Step 3: Assign the newly created role to the Service User
@@ -71,7 +71,7 @@ As a result role Z_SAP_TASK_CENTER for Technical User for Task Pull Service is s
 
 ![Assigned Role](./Images/3.7.1.png "Assigned Role")
 
-As a result, the role for Task Pull Service is assigned to the Service User
+As a result, the role for Task Pull Service has been assigned to the Service User
 
 
 ### Step 4: Create Role for Task Detail Service
@@ -91,7 +91,7 @@ As a result, the role for Task Pull Service is assigned to the Service User
 10. On the Authorizations tab, click **Expert Mode for Profile Generation**.
 11. Save and generate the role
 
-As a result role Z_SAP_TASK_CENTER_DETAILS for Business User for Task Detail Service is successfully created
+As a result role Z_SAP_TASK_CENTER_DETAILS for Business User for Task Detail Service has been successfully created
 
 
 ### Step 5: Assign the newly created business role to the Business Users
@@ -106,6 +106,7 @@ As a result role Z_SAP_TASK_CENTER_DETAILS for Business User for Task Detail Ser
 
 ![Assigned Role](./Images/5.7.1.png "Assigned Role")
 
-As a result, the role for Task Detail Service is assigned to the Business User
+As a result, the role for Task Detail Service has been assigned to the Business User
+
 
 Proceed to the next part: [IPS Configuration](https://github.com/Sereg20/Task_Center/blob/master/IPS_config/README.md)

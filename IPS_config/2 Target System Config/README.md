@@ -23,7 +23,7 @@ The Target system will be SAP Application Server ABAP
 
 ![System params](./Images/1.3.1.png "System params")
 
-As a result, a Target system is created and displayed in Target Systems list on the left hand side 
+As a result, a Target system has been created and displayed in Target Systems list on the left hand side 
 
 
 ### Step 2: Configure Transformation for the Target system
@@ -42,6 +42,7 @@ As a result, a Target system is created and displayed in Target Systems list on 
 
 ![Transformations adjustment](./Images/2.2.2.png "Transformations adjustment")
 
-As a result, Target system Transformation is adjusted properly
+As a result, Target system Transformation has been adjusted properly
+
 
 Proceed to the next step: [3 Run Provisioning Job](https://github.com/Sereg20/Task_Center/blob/master/IPS_config/3%20Run%20Provisioning%20Job/README.md)
