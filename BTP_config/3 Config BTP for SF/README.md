@@ -57,3 +57,5 @@ As a result, the Primary Destination is created and displayed in Destinations ta
 ![Secondary Destination](./Images/2.3.1.png "Secondary Destination")
 
 As a result, the Secondary Destination is created and displayed in Destinations table
+
+Proceed to the next step: [4 Configure BTP for SAP S4HANA On-Premise tasks provider](https://github.com/Sereg20/Task_Center/blob/master/BTP_config/4%20Config%20BTP%20for%20S4HANA/README.md)
