@@ -10,7 +10,7 @@ The guid consists of the following parts:
 - [SAP SuccessFactors Configuration steps](https://)
 - [SAP Cloud Connector Configuration steps (Required as a SAP S4HANA On-Premise prerequisite)](https://github.com/Sereg20/Task_Center/blob/master/SCC_config/README.md)
 - [SAP S4HANA On-Premise Configuration steps](https://github.com/Sereg20/Task_Center/blob/master/S4HANA_config/README.md)
-- [BTP Configuration steps](https://github.com/Sereg20/Task_Center/blob/master/BTP_config/README.md)
+- [SAP BTP Configuration steps](https://github.com/Sereg20/Task_Center/blob/master/BTP_config/README.md)
 - [IPS Configuration steps (Applicable for SAP S4HANA On-Premise only)](https://github.com/Sereg20/Task_Center/blob/master/IPS_config/README.md)
 
 

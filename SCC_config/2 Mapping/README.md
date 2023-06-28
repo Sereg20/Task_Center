@@ -38,7 +38,7 @@ As a result, mapping to your SAP S4HANA On-Premise system has been added
 - Choose **Path And All Sub-Paths** as Access policy
 - Click **Save** button
 
-![add resource](./Images/2.2.1.png "add resource")
+![add resource](./Images/2.2.2.png "add resource")
 
 As a result, added resources are allowed to be accessed
 

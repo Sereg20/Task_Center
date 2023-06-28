@@ -40,4 +40,4 @@ As a result, mapping to your SAP S4HANA On-Premise system has been added
 As a result, all required prefixes have been added
 
 
-Proceed to the next step: [4 Add required certificates](https://github.com/Sereg20/Task_Center/blob/master/SCC_config/3%20Add%20certificates/README.md)
+Proceed to the next step: [4 Add required certificates](https://github.com/Sereg20/Task_Center/blob/master/SCC_config/4%20Add%20certificates/README.md)
