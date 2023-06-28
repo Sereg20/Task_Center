@@ -37,7 +37,7 @@ As a result, a Source system is created and displayed in Source Systems list on 
 - URL - URL of your IAS tenant
 - Authentication - BasicAuthentication
 - User - Client ID of the System Administrator that was created during IAS configuration
-- Password - Password of the System Administrator that was created during IAS configuration
+- Password - Client Secret of the System Administrator that was created during IAS configuration
 - ias.group.filter - displayName eq "**Task_Center**" (the value is equal to the User Group name that was created during IAS Configuration)
 - ias.user.filter - groups.display eq "**Task_Center**" (the value is equal to the User Group name that was created during IAS Configuration)
 

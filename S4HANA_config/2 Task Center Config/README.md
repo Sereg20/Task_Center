@@ -108,4 +108,4 @@ As a result role Z_SAP_TASK_CENTER_DETAILS for Business User for Task Detail Ser
 
 As a result, the role for Task Detail Service is assigned to the Business User
 
-Proceed to the next step: [Something else](https://)
+Proceed to the next part: [IPS Configuration](https://github.com/Sereg20/Task_Center/blob/master/IPS_config/README.md)

@@ -60,4 +60,4 @@ As a result, CA Certificate is created and downloaded to your local computer
 As a result, sample Certificate is created and downloaded to your local computer
 
 
-Proceed to the next step: [something else](https://)
+Proceed to the next part: [SAP S4HANA On-Premise Configuration](https://github.com/Sereg20/Task_Center/blob/master/S4HANA_config/README.md)
