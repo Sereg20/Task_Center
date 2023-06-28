@@ -4,6 +4,7 @@
 - You have BTP Enterprise Account Admin rights
 - You have created a subaccount in your global account
 - You have configured SAP SuccessFactor system as task provider
+- You have configured SAP S4HANA  On-Premise system as task provider
 
 
 ## Details
