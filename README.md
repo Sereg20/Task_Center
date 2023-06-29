@@ -2,7 +2,7 @@
 
 ## Overview
 
-This guide covers all steps you need to perform in order connect SAP Task Center service with SAP SuccessFactors and SAP S4HANA On-Premise systems  
+This guide covers all steps you need to perform in order to connect SAP Task Center service with SAP SuccessFactors and SAP S4HANA On-Premise systems  
 Within such approach SAP Task Center acts as a single entry point for end users to access all their assigned approval tasks whereas both SAP SuccessFactors and SAP S4HANA On-Premise systems act as tasks providers
 
 The guide basically consists of two main parts:

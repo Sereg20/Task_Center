@@ -1,8 +1,9 @@
 ## Details
 
-With this step you will create a System Administrator which is required for 
-- Configuring Users Provisioning in Identity Provisioning Service (IPS)
-- Create Destinations in SAP BTP
+With this step you will create a System Administrator which is required for
+
+- Setting up Users Provisioning in Identity Provisioning Service (IPS)
+- SAP BTP Destinations creation
 
 
 ### Step 1: Create a System Administrator

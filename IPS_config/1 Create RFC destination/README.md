@@ -1,7 +1,7 @@
 ## Details
 
 With this step you will create an RFC Destination on BTP to allow Users data Provisioning from IAS (Cloud) to S4HANA (On-Premise)  
-The Destination is required during Source System configuring
+The Destination is required during Source System configuration
 
 ### Step 1: Create an RFC Destination for Users data Provisioning
 

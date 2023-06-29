@@ -16,4 +16,6 @@ The Identity Provisioning service (IPS) automates identity lifecycle processes. 
 With these steps you will provision SAP Task Center Business Users data from IAS to SAP S4HANA On-Premise system using IPS job
 The Provisioning process will update SAP Task Center Business Users in SAP S4HANA On-Premise system with Global User ID field which is automatically generated in IAS and required for Principal Propagation mechanism
 
+*Note:* This scenario is applicable for S4HANA On-Premise part only
+
 Start with [1 Create RFC Destination in SAP BTP](https://)
