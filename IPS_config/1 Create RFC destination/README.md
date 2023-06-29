@@ -30,4 +30,4 @@ The Destination is required during Source System configuration
 As a result, the RFC Destination has been created and displayed in Destinations table
 
 
-Proceed to the next step: [2 Source System Configuration](https://github.com/Sereg20/Task_Center/blob/master/IPS_config/1%20Source%20System%20Config/README.md)
+Proceed to the next step: [2 Source System Configuration](https://github.com/Sereg20/Task_Center/blob/master/IPS_config/2%20Source%20System%20Config/README.md)

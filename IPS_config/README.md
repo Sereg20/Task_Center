@@ -18,4 +18,4 @@ The Provisioning process will update SAP Task Center Business Users in SAP S4HAN
 
 *Note:* This scenario is applicable for S4HANA On-Premise part only
 
-Start with [1 Create RFC Destination in SAP BTP](https://)
+Start with [1 Create RFC Destination in SAP BTP](https://github.com/Sereg20/Task_Center/blob/master/IPS_config/1%20Create%20RFC%20destination/README.md)
