@@ -1,12 +1,11 @@
 ## Details
 
-With this step you will set up trust configuration between BTP Subaccount and IAS tenant via exchanging SAML Metadata files between your BTP Subaccount and IAS tenant and vice versa
+With this step you will set up Trust Configuration between BTP Subaccount and IAS tenant via exchanging SAML Metadata files between your BTP Subaccount and IAS tenant and vice versa
 
 
 ### Step 1: Create a new app in IAS
 
 1. Access you IAS admin console via link: https://\<your IAS tenant\>.accounts.ondemand.com/admin
-
 2. Create a new app
 
 - Go to the Applications tile
@@ -29,7 +28,6 @@ As a result, the newly created app is displayed in Charged Applications list
 ![Tenant Settings tab](./Images/2.1.1.png "Tenant Settings tab")
 
 2. Go to SAML 2.0 Configuration under Single Sign-On tab
-
 3. Download SAML Metadata to your local computer via clicking **Download Metadata File** button
 
 ![Download SAML Metadata](./Images/2.3.1.png "Download SAML Metadata")

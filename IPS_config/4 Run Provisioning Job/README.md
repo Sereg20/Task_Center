@@ -31,3 +31,6 @@ As a result, the Provisioning job has been successfully triggered
 2. Check the job status (should be **Finished Successfully**). In case the status is **Finished with Error** check the job logs and fix an issue 
 
 ![Result](./Images/2.2.1.png "Result")
+
+
+Proceed to the next part: [SAP SuccessFactors Configuration](https://)

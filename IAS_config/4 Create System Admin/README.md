@@ -1,6 +1,8 @@
 ## Details
 
-With this step you will create a System Administrator which is required for Users Provisioning via Identity Provisioning Service (IPS)
+With this step you will create a System Administrator which is required for 
+- Configuring Users Provisioning in Identity Provisioning Service (IPS)
+- Create Destinations in SAP BTP
 
 
 ### Step 1: Create a System Administrator
@@ -43,4 +45,7 @@ As a result, a new System Administrator has been created
 - Copy Client ID and Client Secret values from the popup. You'll need these values later
 
 
-As a result, System Administrator secrets have been created and stored for future use
+As a result, copied System Administrator secrets can be used during next Configuration steps
+
+
+Proceed to the next part [SAP Cloud Connector Configuration steps](https://github.com/Sereg20/Task_Center/blob/master/SCC_config/README.md) which is a prerequisite for SAP S4HANA On-Premise system Configuration 

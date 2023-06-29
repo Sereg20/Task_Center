@@ -24,7 +24,7 @@ With this step you will add a mapping to your SAP S4HANA On-Premise system which
 
 As a result, mapping to your SAP S4HANA On-Premise system has been added
 
-![mapping](./Images/1.3.2.png "mapping")
+![Mapping](./Images/1.3.2.png "Mapping")
 
 
 ### Step 2: Add required resource to the newly created mapping
@@ -32,13 +32,13 @@ As a result, mapping to your SAP S4HANA On-Premise system has been added
 1. Choose newly created system from Mapping Virtual To Internal System table
 2. Add a resource by clicking **Add** button
 
-![add resource](./Images/2.2.1.png "add resource")
+![Add resource](./Images/2.2.1.png "Add resource")
 
 - Specify **/sap/opu/odata4/sap/** as URL Path
 - Choose **Path And All Sub-Paths** as Access policy
 - Click **Save** button
 
-![add resource](./Images/2.2.2.png "add resource")
+![Add resource](./Images/2.2.2.png "Add resource")
 
 As a result, added resources are allowed to be accessed
 

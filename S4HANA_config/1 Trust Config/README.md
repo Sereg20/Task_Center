@@ -92,7 +92,7 @@ As a result, Sample Certificate from your SAP Cloud Connector has been successfu
 3. Click **YES** in the Internet Communication Manager popup
 4. On the server your SAP S4HANA On-Premise is run restart the backend system in order to apply all Parameters you've just created
 
-As a result, all required parameters for the DEFAULT profile have been created and applied
+As a result, all required parameters for the DEFAULT profile have been applied
 
 
-Proceed to the next step: [2 Task Center Config](https://github.com/Sereg20/Task_Center/blob/master/S4HANA_config/2%20Task%20Center%20Config/README.md)
+Proceed to the next step: [2 Execute Task Center related activities](https://github.com/Sereg20/Task_Center/blob/master/S4HANA_config/2%20Task%20Center%20Config/README.md)

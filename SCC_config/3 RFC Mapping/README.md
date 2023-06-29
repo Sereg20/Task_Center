@@ -8,6 +8,7 @@ With this step you will add an RFC mapping to your SAP S4HANA On-Premise system 
 1. Access you SAP Cloud Connector
 2. Under the Subaccount go to **Cloud To On-Premise** tab
 3. On **Access Control** tab, add a new mapping by clicking **Add** button
+
 - Choose **ABAP System** as Back-end Type
 - Choose **RFC** as Protocol
 - Select **Without load balancing (application server and instance number)** Connection Type
@@ -17,7 +18,7 @@ With this step you will add an RFC mapping to your SAP S4HANA On-Premise system 
 
 As a result, mapping to your SAP S4HANA On-Premise system has been added
 
-![mapping](./Images/1.3.1.png "mapping")
+![Mapping](./Images/1.3.1.png "Mapping")
 
 
 ### Step 2: Add required resource to the newly created mapping
@@ -37,7 +38,7 @@ As a result, mapping to your SAP S4HANA On-Premise system has been added
 
 ![Prefixes](./Images/2.3.1.png "Prefixes")
 
-As a result, all required prefixes have been added
+As a result, all required prefixes are enabled
 
 
-Proceed to the next step: [4 Add required certificates](https://github.com/Sereg20/Task_Center/blob/master/SCC_config/4%20Add%20certificates/README.md)
+Proceed to the next step: [4 Create required certificates](https://github.com/Sereg20/Task_Center/blob/master/SCC_config/4%20Add%20certificates/README.md)

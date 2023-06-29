@@ -73,6 +73,7 @@ As a result, You can use both SAP Build Work Zone, standard edition and Cloud Id
 
 As a result, Cloud Identity Services service instance has been created
 
+
 ### Step 4: Assign required Role Collections to your BTP User
 
 1. Go to Users tab

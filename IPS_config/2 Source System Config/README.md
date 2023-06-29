@@ -48,4 +48,4 @@ As a result, a Source system has been created and displayed in Source Systems li
 As a result, all required properties have been specified for the Source system
 
 
-Proceed to the next step: [2 Task Center Config](https://github.com/Sereg20/Task_Center/blob/master/IPS_config/2%20Target%20System%20Config/README.md)
+Proceed to the next step: [3 Target System Configuration](https://github.com/Sereg20/Task_Center/blob/master/IPS_config/2%20Target%20System%20Config/README.md)

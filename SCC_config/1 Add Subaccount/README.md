@@ -10,15 +10,15 @@ With this step you will connect SAP Cloud Connector with your BTP Subaccount
 
 - From the start page click **Add Subaccount** button
 
-![add subaccount](./Images/1.2.1.png "add subaccount")
+![Add subaccount](./Images/1.2.1.png "Add subaccount")
 
 - From Value Help dialog choose **Region** value which corelates with your BTP Subaccount Region
 
-![choose Region](./Images/1.2.2.png "choose Region")
+![Choose Region](./Images/1.2.2.png "Choose Region")
 
 - Fill in **Subaccount** field with your BTP Subaccount ID value
 
-![provide Subaccount](./Images/1.2.3.png "provide Subaccount")
+![Provide Subaccount](./Images/1.2.3.png "Provide Subaccount")
 
 - Provide meaningful **Display Name** 
 
@@ -27,7 +27,7 @@ With this step you will connect SAP Cloud Connector with your BTP Subaccount
 - Fill In **Location ID** field with a meaningful value in case you have more than 1 SAP Cloud Connectors connected to the same BTP Subaccount 
 - Click **Save** button
 
-![save Subaccount](./Images/1.2.4.png "save Subaccount")
+![Save Subaccount](./Images/1.2.4.png "Save Subaccount")
 
 As a result, the connection between your BTP Subaccount and SAP Cloud Connector has been established.
 
@@ -37,7 +37,7 @@ As a result, the connection between your BTP Subaccount and SAP Cloud Connector 
 1. Access you SAP BTP Subaccount
 2. Go to Cloud Connectors tab and verify it has successfully connected Instance
 
-![successful connection](./Images/2.1.1.png "successful connection")
+![Successful connection](./Images/2.1.1.png "Successful connection")
 
 
-Proceed to the next step: [2 Mapping with your On-Premise system](https://github.com/Sereg20/Task_Center/blob/master/SCC_config/2%20Mapping/README.md)
+Proceed to the next step: [2 Add Mapping to your On-Premise system](https://github.com/Sereg20/Task_Center/blob/master/SCC_config/2%20Mapping/README.md)

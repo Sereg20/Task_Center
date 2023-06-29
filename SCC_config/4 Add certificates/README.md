@@ -1,7 +1,7 @@
 ## Details
 
 With this step you will create and download to your local computer all required certificates to establish trust between SAP Cloud Connector and your Backend System.
-You will need all these certificates during SAP S4HANA configuration
+You will need all these certificates during SAP S4HANA Configuration
 
 
 ### Step 1: Create System certificate
@@ -38,7 +38,6 @@ As a result, System Certificate has been created and downloaded to your local co
 ![Create and import a self-signed certificate](./Images/2.1.2.png "Create and import a self-signed certificate")
 
 2. Download the certificate to your local computer by clicking **Download certificate in DER format** button
-
 
 As a result, CA Certificate has been created and downloaded to your local computer
 

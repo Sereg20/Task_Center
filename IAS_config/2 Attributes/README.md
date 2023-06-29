@@ -11,7 +11,7 @@ With this step you will configure Subject Name Identifier in order to configure 
 - Go to Subject Name Identifier under Trust tab
 - Choose **Global User ID** value from Select a basic attribute dropdown
 
-![configure Subject Name Identifier](./Images/1.1.1.png "configure Subject Name Identifier")
+![Configure Subject Name Identifier](./Images/1.1.1.png "Configure Subject Name Identifier")
 
 - Click **Save** button
 
