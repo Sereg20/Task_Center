@@ -29,4 +29,4 @@ With this step you will perform all required steps to enable push of Task Update
 As a result, SAP Task Center Integration is configured successfully
 
 
-Proceed to the next part: [](https://)
+Proceed to the next part: [SAP S4HANA On-Premise Configuration](https://github.com/Sereg20/Task_Center/blob/master/S4HANA_config/README.md)
