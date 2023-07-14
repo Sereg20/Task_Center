@@ -16,7 +16,7 @@ The guide basically consists of three main parts:
 - [Connect SAP S4HANA On-Premise and SAP Task Center](https://github.com/Sereg20/Task_Center/blob/master/S4HANA_config/README.md)
 - [Connect SAP S4HANA Cloud and SAP Task Center](https://github.com/Sereg20/Task_Center/blob/master/S4HANA_Cloud_config/README.md)
 
-Also, the main parts require following:
+Also, the main parts require the following:
 
 - [Identity Authentication Service (IAS) Configuration](https://github.com/Sereg20/Task_Center/blob/master/IAS_config/README.md) 
 - [SAP BTP Configuration](https://github.com/Sereg20/Task_Center/blob/master/BTP_config/README.md)

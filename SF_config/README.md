@@ -4,7 +4,7 @@
 
 - You have access to a SAP SuccessFactors system
 - You have admin rights in the SAP SuccessFactors system
-- You have performed BTP Configuration steps (See: [BTP Configuration](https://github.com/Sereg20/Task_Center/blob/master/BTP_config/README.md)) 
+- You have configured your BTP Subaccount (See: [BTP Configuration](https://github.com/Sereg20/Task_Center/blob/master/BTP_config/README.md)) 
 
 ## Details
 
