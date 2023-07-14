@@ -1,6 +1,10 @@
 ## Details
 
-With this step you will grab all required data from BTP Subaccount including Destination trust file and SAP Task Center service key info 
+With this step you will grab all required data from BTP Subaccount including Destination trust file and SAP Task Center service key info  
+You will need this data in the following Configuration steps:
+
+- [Configure SAP SuccessFactors system](https://github.com/Sereg20/Task_Center/blob/master/SF_config/README.md)
+- [Configure SAP S4HANA Cloud system](https://github.com/Sereg20/Task_Center/blob/master/S4HANA_Cloud_config/README.md)
 
 
 ### Step 1: Download Destination Trust
@@ -33,4 +37,4 @@ As a result, the Trust has been successfully saved on your local computer
 
 As a result, all required SAP Task Center Service key parameters have been copied
 
-Proceed to the next step: [2 Maintain Communication User](https://)
+Proceed to the next step: [Config](https://)
