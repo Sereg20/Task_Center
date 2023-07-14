@@ -33,4 +33,4 @@ As a result, the Provisioning job has been successfully triggered
 ![Result](./Images/2.2.1.png "Result")
 
 
-Proceed to the next part: [SAP SuccessFactors Configuration](https://github.com/Sereg20/Task_Center/blob/master/IPS_config/README.md)
+Proceed to the next part: [SAP SuccessFactors Configuration](https://github.com/Sereg20/Task_Center/blob/master/SF_config/README.md)

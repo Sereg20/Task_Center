@@ -7,6 +7,7 @@
 - The service user is assigned to SAP_ALL profile
 - You have a business user in the SAP S4HANA On-Premise system you are going to use in SAP Task Center to process incoming tasks
 - You have configured SAP Cloud Connector which is required for secure tunnel between Cloud and On-Premise system (See: [SAP Cloud Connector Configuration](https://github.com/Sereg20/Task_Center/blob/master/SCC_config/README.md))
+- You have configured your BTP Subaccount (See: [BTP Configuration](https://github.com/Sereg20/Task_Center/blob/master/BTP_config/README.md))
 
 ## Details
 

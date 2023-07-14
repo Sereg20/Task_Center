@@ -109,4 +109,4 @@ As a result role Z_SAP_TASK_CENTER_DETAILS for Business User for Task Detail Ser
 As a result, the role for Task Detail Service has been assigned to the Business User
 
 
-Proceed to the next step: [3 Create BTP Destination](https://)
+Proceed to the next step: [3 Create BTP Destination](https://github.com/Sereg20/Task_Center/blob/master/S4HANA_config/3%20Create%20BTP%20destination/README.md)
