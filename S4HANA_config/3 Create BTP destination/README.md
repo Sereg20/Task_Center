@@ -26,3 +26,6 @@ With this step you will create required Destination on BTP to make SAP S4HANA On
 ![Destination](./Images/1.3.1.png "Destination")
 
 As a result, the Destination has been created and displayed in Destinations table
+
+
+Proceed to the next part: [IPS Configuration](https://github.com/Sereg20/Task_Center/blob/master/IPS_config/README.md)

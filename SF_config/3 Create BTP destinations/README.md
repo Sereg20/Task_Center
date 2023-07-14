@@ -59,4 +59,4 @@ As a result, the Primary Destination has been created and displayed in Destinati
 As a result, the Secondary Destination has been created and displayed in Destinations table
 
 
-Proceed to the next step: [4 Configure BTP for SAP S4HANA On-Premise tasks provider](https://github.com/Sereg20/Task_Center/blob/master/BTP_config/4%20Config%20BTP%20for%20S4HANA/README.md)
+Proceed to the next part: [SAP S4HANA On-Premise Configuration](https://github.com/Sereg20/Task_Center/blob/master/S4HANA_config/README.md)
