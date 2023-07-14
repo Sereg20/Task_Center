@@ -57,4 +57,4 @@ As a result, you get API Key of the newly created primary destination
 
 
 
-Proceed to the next step: [2 Enabling Push of Task Updates to SAP Task Center](https://github.com/Sereg20/Task_Center/blob/master/SF_config/2%20Enable%20tasks%20push/README.md)
+Proceed to the next step: [2 Enabling Push of Task Updates to SAP Task Center](https://github.com/Sereg20/Task_Center/blob/master/SF_config/3%20Enable%20tasks%20push/README.md)
