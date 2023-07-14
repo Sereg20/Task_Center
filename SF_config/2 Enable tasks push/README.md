@@ -14,11 +14,11 @@ With this step you will perform all required steps to enable push of Task Update
 
 4. Fill in the fields:
 
-- Destination URL - endpoints > inbox_rest_url from Service Key. Remove everything after .com
+- Destination URL - endpoints -> inbox_rest_url copied from BTP config steps. Remove everything after .com
 - Authentication Type - **Client Credentials**
-- OAuth URL - uaa > url from Service Key. Add **/oauth/token** in the end of the link
-- Client ID - uaa > clientid from Service Key
-- Client Secret - uaa > clientsecret from Service Key
+- OAuth URL - uaa -> url copied from BTP config steps. Add **/oauth/token** in the end of the link
+- Client ID - uaa -> clientid copied from BTP config steps
+- Client Secret - uaa -> clientsecret copied from BTP config steps
 - Scope -> Leave as is
 
 

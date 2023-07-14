@@ -36,11 +36,11 @@ As a result, Communication User has been created
 
 ![New Communication Systems](./Images/2.2.1.png "New Communication Systems")
 
-3. Fill in reauired fields
+3. Fill in the reauired fields
 
 - Host Name field - inbox_rest_url copied earlier. Remove **https://** from the front and **/task-center-service** from the end
-- Under OAuth 2.0 Settings, Auth. Endpoint - uaa –> url value copied earlier and append /oauth/authorize at the end
-- Under OAuth 2.0 Settings, Token Endpoint - uaa –> url value copied earlier and append /oauth/token at the end
+- Under OAuth 2.0 Settings, Auth. Endpoint - uaa –> url value from BTP config steps and append /oauth/authorize at the end
+- Under OAuth 2.0 Settings, Token Endpoint - uaa –> url value from BTP config steps and append /oauth/token at the end
 
 4. Enable OAuth 2.0 Identity Provider
 
@@ -63,10 +63,10 @@ As a result, Communication User has been created
 9. Add User for Outbound Communication
 
 - Click **+** under Users for Inbound Communication
-- Specify the following:
+- Fill in the fields:
  - Authentication Method - **OAuth 2.0**
- - OAuth 2.0 Client ID - uaa –> clientid copied earlier
- - Client Secert - uaa –> clientsecret copied earlier
+ - OAuth 2.0 Client ID - uaa -> clientid copied from BTP config steps
+ - Client Secert - uaa –> clientsecret copied from BTP config steps
 - Click **Create** button
 
 ![User for Outbound Communication](./Images/2.9.1.png "User for Outbound Communication")
