@@ -9,4 +9,4 @@
 
 With these steps you will configure SAP SuccessFactors system to allow tasks propagating to SAP Task Center
 
-Start with [1 Get all required data from BTP](https://github.com/Sereg20/Task_Center/blob/master/SF_config/1%20Create%20destinations/README.md)
+Start with [1 Get all required data from BTP](https://github.com/Sereg20/Task_Center/blob/master/SF_config/1%20Get%20required%20data%20from%20BTP/README.md)
