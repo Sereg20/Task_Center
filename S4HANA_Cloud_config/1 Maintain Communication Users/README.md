@@ -91,4 +91,4 @@ As a result, the Communication User has been completely configured
 
 As a result, you have all required Communication Arrangements data
 
-Proceed to the next step: [2 Maintain Communication User](https://)
+Proceed to the next step: [2 Create BTP Destination](https://github.com/Sereg20/Task_Center/blob/master/S4HANA_Cloud_config/2%20Create%20BTP%20Destination/README.md)

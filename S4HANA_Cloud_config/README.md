@@ -10,4 +10,4 @@
 
 With these steps you will configure SAP S4HANA Cloud system to allow tasks propagating to SAP Task Center
 
-Start with [1 Get all required data from BTP](https://)
+Start with [1 Maintain Communication User](https://github.com/Sereg20/Task_Center/blob/master/S4HANA_Cloud_config/1%20Maintain%20Communication%20Users/README.md)

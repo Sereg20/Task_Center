@@ -29,4 +29,4 @@ With this step you will perform all required steps to enable push of Task Update
 As a result, SAP Task Center Integration is configured successfully
 
 
-Proceed to the next step: [3 Create BTP Destinations](https://)
+Proceed to the next step: [3 Create BTP Destinations](https://github.com/Sereg20/Task_Center/blob/master/SF_config/3%20Create%20BTP%20destinations/README.md)

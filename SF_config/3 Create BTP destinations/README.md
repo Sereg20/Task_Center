@@ -59,4 +59,4 @@ As a result, the Primary Destination has been created and displayed in Destinati
 As a result, the Secondary Destination has been created and displayed in Destinations table
 
 
-Proceed to the next part: [SAP S4HANA On-Premise Configuration](https://github.com/Sereg20/Task_Center/blob/master/S4HANA_config/README.md)
+Proceed to the next part: [SAP S4HANA Cloud Configuration](https://github.com/Sereg20/Task_Center/blob/master/S4HANA_Cloud_config/README.md)
