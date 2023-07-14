@@ -173,4 +173,4 @@ As a result, SAP Task Center has been configured. Both **Task Center** and **Tas
 ![Site](./Images/4.9.1.png "Site")
 
 
-Proceed to the next step: [3 Configure BTP for SuccessFactors tasks provider](https://github.com/Sereg20/Task_Center/blob/master/BTP_config/3%20Config%20BTP%20for%20SF/README.md)
+Proceed to the next step: [3 Get all required BTP Data](https://github.com/Sereg20/Task_Center/blob/master/BTP_config/3%20Get%20all%20required%20BTP%20data/README.md)

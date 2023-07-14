@@ -37,4 +37,4 @@ As a result, the Trust has been successfully saved on your local computer
 
 As a result, all required SAP Task Center Service key parameters have been copied
 
-Proceed to the next step: [Config](https://)
+Proceed to the next part: [IAS Configuration steps](https://github.com/Sereg20/Task_Center/blob/master/IAS_config/README.md)
